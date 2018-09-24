@@ -2,8 +2,8 @@ This homework consists of 3 parts. The first part was to delete a file and its h
 
 The following screenshots shows the creating of a file, the history of the file, and the absence of the file after deleting.
 
-![Alt text](screenshots/HW3_repo.png)
+![Alt text](screenshots/HW3_repo.PNG)
 
-![Alt text](screenshots/HW3_history.png)
+![Alt text](screenshots/HW3_history.PNG)
 
-![Alt text](screenshots/HW3_after.png)
+![Alt text](screenshots/HW3_after.PNG)
