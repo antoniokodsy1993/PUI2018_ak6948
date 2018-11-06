@@ -10,5 +10,6 @@ The citibike mini project in homework 4 suggestions provided by yc3420 were revi
 - The proposed t-test was used.
 
 The revised notebook can be accessed [here](https://github.com/antoniokodsy1993/PUI2018_ak6948/blob/master/HW8_ak6948/Assig2.ipynb)
+
 The authorea report concerning the mini project can be found [here](https://www.authorea.com/335335/ln_gkejkW7Ptte7FJsK-zw)
  
