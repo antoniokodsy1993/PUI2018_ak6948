@@ -1,6 +1,6 @@
 # HOMEWORK 8
 ## Part 1
-The notebook for this plot can be accessed [here]
+The notebook for this plot can be accessed [here](https://github.com/antoniokodsy1993/PUI2018_ak6948/blob/master/HW8_ak6948/Assig1.ipynb)
 
 ## Part 2
 The citibike mini project in homework 4 suggestions provided by yc3420 were reviewed and considered in completing this part of the homework.
