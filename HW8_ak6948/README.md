@@ -1,6 +1,6 @@
 # HOMEWORK 8
 ## Part 1
-
+The notebook for this plot can be accessed [here]
 
 ## Part 2
 The citibike mini project in homework 4 suggestions provided by yc3420 were reviewed and considered in completing this part of the homework.
