@@ -1,6 +1,7 @@
 # HOMEWORK 8
 ## Part 1
-![Alt text](SC1.png)
+![Alt text](SC1.PNG)
+
 The notebook for this plot can be accessed [here](https://github.com/antoniokodsy1993/PUI2018_ak6948/blob/master/HW8_ak6948/Assig1.ipynb)
 
 ## Part 2
