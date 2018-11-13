@@ -1,4 +1,4 @@
-#README
+# README
 
 This folder contains Homework nine. It contains two markdown files for the two plots that were assigned to me to review. 
 
